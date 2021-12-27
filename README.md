@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Giphy-App
+
+This project consists in fetched GIF's from Giphy API and shown on react view implemented with classes. Also, you can fetch a random GIF pressing the random buttom. So that this app can run, you need to get an API Key from Giphy API and replace it on the URL of getGifs method on Navigation component.
 ## Available Scripts
 
 In the project directory, you can run:
